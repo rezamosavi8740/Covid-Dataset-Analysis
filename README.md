@@ -1,1 +1,3 @@
-# Covid-Dataset-Analysis
+This is my first exercise for Exploratory data analysis. Most of the graphs drawn in the code are basic graphs for general data analysis, including the number of null data, as well as data distributions, and checking the amount of dispersion and checking the range between quartiles, including these basic and simple graphs that give us a correct and correct understanding of this data, so that we can understand at first glance what kind of data we are dealing with.
+
+It should be noted that this exercise is a simple exercise and the beginning of data tasks, and it is only a process that goes through at the beginning of the project and data review.
